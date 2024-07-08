@@ -4,6 +4,10 @@ import { TailcastLogo } from "../assets/logos/TailcastLogo";
 // Define the footer content
 const footerContent = {
   copyright: `© ${new Date().getFullYear()} PEERSOC. All rights reserved.`,
+  contact: {
+    phone: "+358 44 5040308",
+    email: "amine.moussa@cybersecurity.fi",
+  },
 };
 
 // Footer component
@@ -26,6 +30,17 @@ export const Footer = () => {
                 Your trusted partner in securing your digital assets with expert assessments and proactive solutions.
               </p>
               <p className="text-gray-100">{footerContent.copyright}</p>
+            </div>
+            <div className="w-full lg:w-2/3 flex justify-center lg:justify-end items-center mb-6 lg:mb-0">
+              <div className="text-gray-400 text-center lg:text-right">
+                <p>
+                  Contact us
+                  <br />
+                  our Phone: {footerContent.contact.phone}
+                  <br />
+                  Email: {footerContent.contact.email}
+                </p>
+              </div>
             </div>
           </div>
         </div>
