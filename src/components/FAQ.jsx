@@ -13,7 +13,7 @@ const FAQData = [
       "Engaging PEERSOC's SOC services is straightforward. Contact our team to discuss your security requirements and explore how we can protect your organization from cyber threats.",
   },
   {
-    question: "If you could ask one question about PEERSOC services, what would it be?",
+    question: "If you could ask one question about PEERSOC services, what would it be.?",
     answer:
       "Understanding the depth of PEERSOC's commitment to cybersecurity is crucial. How does PEERSOC ensure continuous improvement and innovation in its SOC services to adapt to emerging cyber threats?",
   },
