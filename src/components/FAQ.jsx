@@ -18,7 +18,7 @@ const FAQData = [
       "Understanding the depth of PEERSOC's commitment to cybersecurity is crucial. How does PEERSOC ensure continuous improvement and innovation in its SOC services to adapt to emerging cyber threats?",
   },
   {
-    question: "What ongoing support does PEERSOC provide after implementing its SOC services?",
+    question: "What ongoing support does PEERSOC provide after implementing its SOC services.?",
     answer:
       "PEERSOC offers continuous support and guidance, including regular security assessments, training programs, and strategic consultations to help organizations maintain a resilient cybersecurity posture and address emerging threats.",
   },
