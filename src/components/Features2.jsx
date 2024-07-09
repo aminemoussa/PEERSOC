@@ -17,7 +17,7 @@ export const Features2 = () => (
           <div className="mb-8 lg:mb-0 w-full px-2 lg:pl-16 flex flex-col justify-center md:pl-8">
             <div className="mb-4 py-3 md:pl-3 md:pr-20 lg:pr-12 rounded">
               <img
-                src="/dist/_astro/featuresdiagonal.Odwo-D4x.png"
+                src="/dist/_astro/cyber-attack-concept-illustration.png"
                 className="rounded-xl "
                 style={{ maxWidth: '100%', height: 'auto' }}
                 aria-label="Feature image 15"
